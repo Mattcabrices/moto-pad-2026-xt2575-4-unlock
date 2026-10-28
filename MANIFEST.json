@@ -1,0 +1,78 @@
+{
+  "status": "TESTED ON HARDWARE - BOOTLOADER UNLOCK CONFIRMED",
+  "device": {
+    "model": "XT2575-4",
+    "marketing_name": "Moto Pad 2026",
+    "product": "sycamore_row_5G",
+    "platform": "MT6835 / mt8755",
+    "tested_slot": "a",
+    "installed_android_build": "XT2575-4_ROW_OPEN_USER_M1317.3_W_ZUI_17.5.10.017_ST",
+    "serial": "omitted"
+  },
+  "firmware": {
+    "lk_source_build": "17.5.10.020",
+    "stock_container_sha256": "e74a2e9808ec0ce016453acf02920ce9ddc32807dc3e2ec32c680f8922a59c98",
+    "stock_payload_sha256": "10008c0ab880bd5bd5979e4299e3c06e34768d93a9a073e28f13488e0c0fee46",
+    "stock_payload_size": 938304
+  },
+  "patched_payload": {
+    "file": "lk.oem-unlock-gate.17.5.10.020.bin",
+    "sha256": "95462aa5ba178ac1217f3d0a3271d2b568b8dd9a8460fcfa15ec7b7c346717cc",
+    "size": 938304
+  },
+  "patched_image": {
+    "file": "lk.oem-unlock-gate.17.5.10.020.img",
+    "sha256": "81ee5de950470c9e31552135349589e8b056a4312f93419930a9502f4bbbd034",
+    "size": 2914016
+  },
+  "patch": {
+    "payload_offset": "0x975c",
+    "virtual_address": "0xffff000050f0975c",
+    "before": {
+      "bytes": "c80b0034",
+      "instruction": "cbz w8, #0xffff000050f098d4"
+    },
+    "after": {
+      "bytes": "1f2003d5",
+      "instruction": "nop"
+    },
+    "effect": "Skips the Sn Image authorization guard in the fastboot oem unlock handler. The handler retains the volume-key confirmation, lock-state check, and set_lock_state(0) path."
+  },
+  "build": {
+    "method": "Val Protocol LK repack with legacy CERT2 hash override",
+    "val_protocol_revision": "dc7f41f9b1a32da1a78ef327bb62d2bef17d7bd0",
+    "val_protocol_url": "https://github.com/Maikyxd/val-protocol",
+    "val_verification": "Result: VALID",
+    "container_check": "Only the lk payload and cert2 component differ; all other components are byte-identical to the official image. Only 4 payload bytes changed.",
+    "offline_handler_tests": "7/7 control-flow tests passed"
+  },
+  "hardware_result": {
+    "flash_command": "fastboot flash lk_a lk.oem-unlock-gate.17.5.10.020.img",
+    "flash_result": "Sending OKAY; Writing OKAY",
+    "bootloader_before": "sycamore_row_5G_27256d543_202607101822",
+    "bootloader_after": "sycamore_row_5G_27256d543_202609231741",
+    "unlock_command": "fastboot oem unlock",
+    "unlock_confirmation": "Tap Volume Up/Down during the ~5 second window; holding a key did not register",
+    "unlock_result": "Start unlock flow; unlock success; OKAY",
+    "final_fastboot_unlocked": "yes",
+    "final_android_flash_locked": "0",
+    "final_android_verifiedbootstate": "orange",
+    "user_data": "erased by unlock"
+  },
+  "limitations": [
+    "Validated on one XT2575-4 unit only; not a universal exploit.",
+    "Only slot a was flashed; lk_b was not written and was not tested as a fallback.",
+    "The installed Android build remained 17.5.10.017; the LK is from 17.5.10.020.",
+    "SP Flash Tool recovery is the intended fallback but was not exercised on this unit.",
+    "Do not relock, do not flash both slots, and do not run full stock flashing scripts as cleanup without a tested recovery path."
+  ],
+  "credits": {
+    "val_protocol": "Maikyxd - https://github.com/Maikyxd/val-protocol - AGPL-3.0",
+    "upstream": [
+      "kasnria001/pwnage24mtk",
+      "R0rt1z2/liblk",
+      "R0rt1z2/lkpatcher"
+    ],
+    "hardware_validation": "Matt Cabrices"
+  }
+}
