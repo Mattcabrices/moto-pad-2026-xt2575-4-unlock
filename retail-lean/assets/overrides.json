@@ -1,0 +1,7 @@
+{
+  "system/system/media/wallpapers/default_wallpaper.png": "assets/wallpaper-3000x3000.png",
+  "system/system/media/wallpapers/wallpaper": "assets/wallpaper-3000x3000.png",
+  "system/system/media/wallpapers/wallpaper_land": "assets/wallpaper-752x470.png",
+  "system/system/media/wallpapers/wallpaper_port": "assets/wallpaper-440x704.png",
+  "system/system/media/wallpapers/lockscreen/wallpaper": "assets/wallpaper-3000x3000.png"
+}

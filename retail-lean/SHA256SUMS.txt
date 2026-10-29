@@ -1,0 +1,4 @@
+fde455fed3e34334808edce20a3603dede231d3bf3ff93b4393cc2040f7e3ba7  system_a.travel-lean.UNSIGNED.img
+55d3d7e7bb397582299f839ef67e158948851de40e513235b8e0ecb3eb3654b0  product_a.travel-lean.UNSIGNED.img
+c1c443b3ff021e595b01ec0917c6b2cf47f57bae75eb00b59aad0b4f7893d15a  system_ext_a.travel-lean.UNSIGNED.img
+f1dca7b6e08be57425be32e329199e127c40d8bd8409d10f33882fae2033e4e5  vbmeta-020.custom-os-flags3.img

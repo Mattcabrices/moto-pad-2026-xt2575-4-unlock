@@ -1,0 +1,2053 @@
+[
+  {
+    "path": "product/app/CalculatorGoogle/CalculatorGoogle.apk",
+    "bytes": 6478852,
+    "package": "com.google.android.calculator",
+    "version": "9.0 (799007469)",
+    "label": "@0x7f14001c"
+  },
+  {
+    "path": "product/app/CalendarGoogle/CalendarGoogle.apk",
+    "bytes": 29367733,
+    "package": "com.google.android.calendar",
+    "version": "2025.38.0-809757839-release",
+    "label": "@0x7f14011d"
+  },
+  {
+    "path": "product/app/Chrome/Chrome.apk",
+    "bytes": 47868287,
+    "package": "com.android.chrome",
+    "version": "140.0.7339.207",
+    "label": "@0x7f1402eb"
+  },
+  {
+    "path": "product/app/com.google.android.modulemetadata/com.google.android.modulemetadata.apk",
+    "bytes": 45607,
+    "package": "com.google.android.modulemetadata",
+    "version": "2025-09-01S+",
+    "label": "@0x7f01002a"
+  },
+  {
+    "path": "product/app/com.google.mainline.adservices/com.google.mainline.adservices.apk",
+    "bytes": 21026,
+    "package": "com.google.mainline.adservices",
+    "version": "2025-09-01T+",
+    "label": "@0x7f010002"
+  },
+  {
+    "path": "product/app/com.google.mainline.telemetry/com.google.mainline.telemetry.apk",
+    "bytes": 20958,
+    "package": "com.google.mainline.telemetry",
+    "version": "2025-09-01S+",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "product/app/DeskClockGoogle/DeskClockGoogle.apk",
+    "bytes": 13046103,
+    "package": "com.google.android.deskclock",
+    "version": "8.2 (805685915)",
+    "label": "@0x7f1401d7"
+  },
+  {
+    "path": "product/app/Drive/Drive.apk",
+    "bytes": 60013740,
+    "package": "com.google.android.apps.docs",
+    "version": "2.25.380.0.all.alldpi",
+    "label": "@0x7f14043b"
+  },
+  {
+    "path": "product/app/Gmail2/Gmail2.apk",
+    "bytes": 144943554,
+    "package": "com.google.android.gm",
+    "version": "2025.09.22.811856720.Release",
+    "label": "@0x7f1505f4"
+  },
+  {
+    "path": "product/app/GoogleContacts/GoogleContacts.apk",
+    "bytes": 22384690,
+    "package": "com.google.android.contacts",
+    "version": "4.64.27.807337001",
+    "label": "@0x7f15008e"
+  },
+  {
+    "path": "product/app/GoogleLocationHistory/GoogleLocationHistory.apk",
+    "bytes": 2720602,
+    "package": "com.google.android.gms.location.history",
+    "version": "1.2",
+    "label": "@0x7f020000"
+  },
+  {
+    "path": "product/app/LatinImeGoogle/LatinImeGoogle.apk",
+    "bytes": 76634524,
+    "package": "com.google.android.inputmethod.latin",
+    "version": "16.0.5.804347959-release-arm64-v8a",
+    "label": "@0x7f14050a"
+  },
+  {
+    "path": "product/app/LTHD/LTHD.apk",
+    "bytes": 3641817,
+    "package": "com.lmsa.app.lmsapad",
+    "version": "1.2.0_V",
+    "label": "@0x7f0d001d"
+  },
+  {
+    "path": "product/app/Maps/Maps.apk",
+    "bytes": 119448260,
+    "package": "com.google.android.apps.maps",
+    "version": "25.38.02.806933749",
+    "label": "@0x7f1410fd"
+  },
+  {
+    "path": "product/app/Meet/Meet.apk",
+    "bytes": 106890702,
+    "package": "com.google.android.apps.tachyon",
+    "version": "326.0.810633361.duo.android_20250922.02_p1",
+    "label": "@0x7f1501f0"
+  },
+  {
+    "path": "product/app/Photos/Photos.apk",
+    "bytes": 150490789,
+    "package": "com.google.android.apps.photos",
+    "version": "7.47.0.810631069",
+    "label": "@0x7f1422bc"
+  },
+  {
+    "path": "product/app/SpeechServicesByGoogle/SpeechServicesByGoogle.apk",
+    "bytes": 69844065,
+    "package": "com.google.android.tts",
+    "version": "googletts.google-speech-apk_20250303.01_p1.734589102",
+    "label": "@0x7f140029"
+  },
+  {
+    "path": "product/app/SwitchAccess/SwitchAccess.apk",
+    "bytes": 11779735,
+    "package": "com.google.android.accessibility.switchaccess",
+    "version": "1.16.1.798952610",
+    "label": "@0x7f120473"
+  },
+  {
+    "path": "product/app/talkback/talkback.apk",
+    "bytes": 41398001,
+    "package": "com.google.android.marvin.talkback",
+    "version": "16.1.0.808839780",
+    "label": "@0x7f15008a"
+  },
+  {
+    "path": "product/app/TrichromeLibrary/TrichromeLibrary.apk",
+    "bytes": 98958218,
+    "package": "com.google.android.trichromelibrary",
+    "version": "140.0.7339.207",
+    "label": "Trichrome Library"
+  },
+  {
+    "path": "product/app/Videos/Videos.apk",
+    "bytes": 26879107,
+    "package": "com.google.android.videos",
+    "version": "4.39.3507.800854208.8-release",
+    "label": "@0x7f140300"
+  },
+  {
+    "path": "product/app/WebViewGoogle/WebViewGoogle.apk",
+    "bytes": 134718040,
+    "package": "com.google.android.webview",
+    "version": "140.0.7339.207",
+    "label": "Android System WebView"
+  },
+  {
+    "path": "product/app/YouTube/YouTube.apk",
+    "bytes": 115306441,
+    "package": "com.google.android.youtube",
+    "version": "20.38.37",
+    "label": "@0x7f1401a0"
+  },
+  {
+    "path": "product/app/YTMSetupWizard/YTMSetupWizard.apk",
+    "bytes": 10000686,
+    "package": "com.google.android.apps.youtube.music.setupwizard",
+    "version": "1.1",
+    "label": "@0x7f0e001c"
+  },
+  {
+    "path": "product/app/YTMusic/YTMusic.apk",
+    "bytes": 64479205,
+    "package": "com.google.android.apps.youtube.music",
+    "version": "8.38.52",
+    "label": "@0x7f14013b"
+  },
+  {
+    "path": "product/overlay/CaptivePortalLoginFrameworkOverlay.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.modules.captiveportallogin.forframework",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/CompanionDeviceManager__tablet__auto_generated_characteristics_rro.apk",
+    "bytes": 16734,
+    "package": "com.android.companiondevicemanager.auto_generated_characteristics_rro",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk",
+    "bytes": 16734,
+    "package": "com.android.internal.display.cutout.emulation.corner",
+    "version": "1.0",
+    "label": "@0x7f030002"
+  },
+  {
+    "path": "product/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk",
+    "bytes": 16734,
+    "package": "com.android.internal.display.cutout.emulation.double",
+    "version": "1.0",
+    "label": "@0x7f030002"
+  },
+  {
+    "path": "product/overlay/DisplayCutoutEmulationHole/DisplayCutoutEmulationHoleOverlay.apk",
+    "bytes": 16734,
+    "package": "com.android.internal.display.cutout.emulation.hole",
+    "version": "1.0",
+    "label": "@0x7f030002"
+  },
+  {
+    "path": "product/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk",
+    "bytes": 16734,
+    "package": "com.android.internal.display.cutout.emulation.tall",
+    "version": "1.0",
+    "label": "@0x7f030002"
+  },
+  {
+    "path": "product/overlay/DisplayCutoutEmulationWaterfall/DisplayCutoutEmulationWaterfallOverlay.apk",
+    "bytes": 16734,
+    "package": "com.android.internal.display.cutout.emulation.waterfall",
+    "version": "1.0",
+    "label": "@0x7f020002"
+  },
+  {
+    "path": "product/overlay/FontNotoSerifSource/FontNotoSerifSourceOverlay.apk",
+    "bytes": 8542,
+    "package": "com.android.theme.font.notoserifsource",
+    "version": "1.0",
+    "label": "@0x7f010004"
+  },
+  {
+    "path": "product/overlay/framework-res__sys_mssi_t_64_cn_armv82__auto_generated_rro_product.apk",
+    "bytes": 98725,
+    "package": "android.auto_generated_rro_product__",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/framework-res__tablet__auto_generated_characteristics_rro.apk",
+    "bytes": 653517,
+    "package": "android.auto_generated_characteristics_rro",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GmsConfigOverlayADVerifier.apk",
+    "bytes": 8542,
+    "package": "com.google.android.verifier.overlay",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GmsConfigOverlayASI.apk",
+    "bytes": 12638,
+    "package": "com.google.android.overlay.gmsconfig.asi",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GmsConfigOverlayCommon.apk",
+    "bytes": 29103,
+    "package": "com.google.android.overlay.gmsconfig.common",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GmsConfigOverlayComms.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.gmsconfig.comms",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GmsConfigOverlayGeotz.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.gmsconfig.geotz",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GmsConfigOverlayGSA.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.gmsconfig.gsa",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GmsConfigOverlayPersonalSafety.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.gmsconfig.personalsafety",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GmsConfigOverlayPhotos.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.gmsconfig.photos",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GmsConfigOverlaySearchSelector.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.gmsconfig.searchselector",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GoogleConnectivityResOverlay.apk",
+    "bytes": 17250,
+    "package": "com.google.android.connectivity.resources.overlay",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GoogleDocumentsUIOverlay.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.modules.documentsui",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GoogleExtServicesConfigOverlay.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.modules.ext.services",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GoogleHealthFitnessFrameworkOverlay.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.modules.healthfitness.forframework",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GoogleNetworkStackOverlay.apk",
+    "bytes": 12716,
+    "package": "com.google.android.networkstack.overlay",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GooglePermissionControllerFrameworkOverlay.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.modules.permissioncontroller.forframework",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GooglePermissionControllerOverlay.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.modules.permissioncontroller",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/GoogleWifiResOverlay.apk",
+    "bytes": 12734,
+    "package": "com.google.android.wifi.resources.overlay",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/IconMaskOverlayArcRounded.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.iconmask.overlay.arcrounded",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/IconMaskOverlayCircle.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.iconmask.overlay.circle",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/IconMaskOverlayHexagon.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.iconmask.overlay.hexagon",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/IconMaskOverlayPentagon.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.iconmask.overlay.pentagon",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/IconMaskOverlayRhombus.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.iconmask.overlay.rhombus",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/IconMaskOverlayRoundedSquare.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.iconmask.overlay.roundedsquare",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/IconMaskOverlayRoundedSquareRadiusLarge.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.iconmask.overlay.roundedsquare.radius.large",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/IconMaskOverlayRoundedSquareRadiusSmall.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.iconmask.overlay.roundedsquare.radius.small",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/IconMaskOverlayRoundedSquareRadiusXSmall.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.iconmask.overlay.roundedsquare.radius.xsmall",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/LgsiFrameworksOverlay.apk",
+    "bytes": 12638,
+    "package": "com.lgsi.android.overlay.common",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/LgsiMssiRowFwResOverlay.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.android.overlay.mssi",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/LgsiSepicalFrameworksOverlay.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.android.overlay.special.framework",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/LgsiSepicalSystemUIOverlay.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.android.overlay.special.systemui",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/LgsiSettingsProviderResOverlay.apk",
+    "bytes": 8542,
+    "package": "com.lgsi.providers.settings.overlay",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/ModuleMetadataGoogleOverlay.apk",
+    "bytes": 8542,
+    "package": "com.google.android.overlay.modules.modulemetadata.forframework",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/MtkTelephonyProvider__tablet__auto_generated_characteristics_rro.apk",
+    "bytes": 427613,
+    "package": "com.android.providers.telephony.auto_generated_characteristics_rro",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/MtkTeleService__tablet__auto_generated_characteristics_rro.apk",
+    "bytes": 33927,
+    "package": "com.android.phone.auto_generated_characteristics_rro",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/NavigationBarMode3Button/NavigationBarMode3ButtonOverlay.apk",
+    "bytes": 8542,
+    "package": "com.android.internal.systemui.navbar.threebutton",
+    "version": "1.0",
+    "label": "@0x7f040000"
+  },
+  {
+    "path": "product/overlay/NavigationBarModeGestural/NavigationBarModeGesturalOverlay.apk",
+    "bytes": 12638,
+    "package": "com.android.internal.systemui.navbar.gestural",
+    "version": "1.0",
+    "label": "@0x7f040000"
+  },
+  {
+    "path": "product/overlay/NotesRoleEnabled/NotesRoleEnabledOverlay.apk",
+    "bytes": 8542,
+    "package": "com.android.role.notes.enabled",
+    "version": "1.0",
+    "label": "@0x7f020000"
+  },
+  {
+    "path": "product/overlay/SycamoreROWGoogleOOBEOverlay.apk",
+    "bytes": 16734,
+    "package": "com.google.android.setupwizard.overlay",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/SycamoreRowWifiResOverlay.apk",
+    "bytes": 8542,
+    "package": "com.google.android.wifi.sycamore.resources.overlay",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/SycamoreRowZuiOOBEOverlay.apk",
+    "bytes": 172382,
+    "package": "com.tblenovo.setup.overlay",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/SycamoreRowZuiSettingsOverlay.apk",
+    "bytes": 786782,
+    "package": "com.android.settings.overlay",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/SycamoreRowZuiSystemUIOverlay.apk",
+    "bytes": 24926,
+    "package": "com.android.systemui.overlay",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/overlay/TransparentNavigationBar/TransparentNavigationBarOverlay.apk",
+    "bytes": 8542,
+    "package": "com.android.internal.systemui.navbar.transparent",
+    "version": "1.0",
+    "label": "@0x7f020000"
+  },
+  {
+    "path": "product/overlay/WifiSystemResMainlineOverlay/WifiSystemResMainlineOverlay.apk",
+    "bytes": 8542,
+    "package": "com.mediatek.wifi.system.mainline.resources.overlay",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/WifiSystemResOverlay/WifiSystemResOverlay.apk",
+    "bytes": 8542,
+    "package": "com.mediatek.wifi.system.resources.overlay",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/ZuiDynamicColorOverlay.apk",
+    "bytes": 12638,
+    "package": "com.zui.dynamic.color.overlay",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/ZuiSycamoreRowFrameworksOverlay.apk",
+    "bytes": 16805,
+    "package": "com.zui.android.overlay.common",
+    "version": "1.0",
+    "label": null
+  },
+  {
+    "path": "product/overlay/ZuiThemeSettingsOverlayblue.apk",
+    "bytes": 13202442,
+    "package": "com.zui.theme.settings.overlay.blue",
+    "version": "16",
+    "label": "com.zui.theme.settings.overlay.blue"
+  },
+  {
+    "path": "product/overlay/ZuiThemeSettingsOverlaygolden.apk",
+    "bytes": 16200718,
+    "package": "com.zui.theme.settings.overlay.golden",
+    "version": "16",
+    "label": "com.zui.theme.settings.overlay.golden"
+  },
+  {
+    "path": "product/overlay/ZuiThemeSettingsOverlaygrace.apk",
+    "bytes": 14013456,
+    "package": "com.zui.theme.settings.overlay.grace",
+    "version": "16",
+    "label": "com.zui.theme.settings.overlay.grace"
+  },
+  {
+    "path": "product/overlay/ZuiThemeSettingsOverlayinterstellartravel.apk",
+    "bytes": 17916943,
+    "package": "com.zui.theme.settings.overlay.interstellartravel",
+    "version": "16",
+    "label": "com.zui.theme.settings.overlay.interstellartravel"
+  },
+  {
+    "path": "product/overlay/ZuiThemeSettingsOverlaylime.apk",
+    "bytes": 25072652,
+    "package": "com.zui.theme.settings.overlay.lime",
+    "version": "16",
+    "label": "com.zui.theme.settings.overlay.lime"
+  },
+  {
+    "path": "product/overlay/ZuiThemeSettingsOverlaymagiccolortimemirror.apk",
+    "bytes": 19084304,
+    "package": "com.zui.theme.settings.overlay.magiccolortimemirror",
+    "version": "16",
+    "label": "com.zui.theme.settings.overlay.magiccolortimemirror"
+  },
+  {
+    "path": "product/overlay/ZuiThemeSettingsOverlaymostbeautiful.apk",
+    "bytes": 15623178,
+    "package": "com.zui.theme.settings.overlay.mostbeautiful",
+    "version": "16",
+    "label": "com.zui.theme.settings.overlay.mostbeautiful"
+  },
+  {
+    "path": "product/overlay/ZuiThemeSettingsOverlaypink.apk",
+    "bytes": 6042637,
+    "package": "com.zui.theme.settings.overlay.pink",
+    "version": "16",
+    "label": "com.zui.theme.settings.overlay.pink"
+  },
+  {
+    "path": "product/overlay/ZuiThemeSettingsOverlaysoftlighttransparency.apk",
+    "bytes": 20988942,
+    "package": "com.zui.theme.settings.overlay.softlighttransparency",
+    "version": "16",
+    "label": "com.zui.theme.settings.overlay.softlighttransparency"
+  },
+  {
+    "path": "product/overlay/ZuiThemeSettingsOverlaytabui.apk",
+    "bytes": 19248142,
+    "package": "com.zui.theme.settings.overlay.tabui",
+    "version": "16",
+    "label": "com.zui.theme.settings.overlay.tabui"
+  },
+  {
+    "path": "product/overlay/ZuiThemeSettingsOverlaythin.apk",
+    "bytes": 3585036,
+    "package": "com.zui.theme.settings.overlay.thin",
+    "version": "16",
+    "label": "com.zui.theme.settings.overlay.thin"
+  },
+  {
+    "path": "product/priv-app/AndroidAutoStub/AndroidAutoStub.apk",
+    "bytes": 3787604,
+    "package": "com.google.android.projection.gearhead",
+    "version": "1.2.551000-stub",
+    "label": "Android Auto"
+  },
+  {
+    "path": "product/priv-app/AndroidDeveloperVerifier/AndroidDeveloperVerifier.apk",
+    "bytes": 3027091,
+    "package": "com.google.android.verifier",
+    "version": "1.0.804814953",
+    "label": "@0x7f0d001c"
+  },
+  {
+    "path": "product/priv-app/AndroidSystemIntelligence/AndroidSystemIntelligence.apk",
+    "bytes": 60661412,
+    "package": "com.google.android.as",
+    "version": "B.9.playstore.oemfull.791909054",
+    "label": "@0x7f14002b"
+  },
+  {
+    "path": "product/priv-app/AssistantShell/AssistantShell.apk",
+    "bytes": 1225381,
+    "package": "com.google.android.apps.googleassistant",
+    "version": "0.1.601924805",
+    "label": "@0x7f0e001c"
+  },
+  {
+    "path": "product/priv-app/CarrierSettings/CarrierSettings.apk",
+    "bytes": 1685884,
+    "package": "com.google.android.carrier",
+    "version": "48.1.659794582",
+    "label": "Carrier Settings"
+  },
+  {
+    "path": "product/priv-app/ConfigUpdater/ConfigUpdater.apk",
+    "bytes": 1155988,
+    "package": "com.google.android.configupdater",
+    "version": "16-13928101",
+    "label": "ConfigUpdater"
+  },
+  {
+    "path": "product/priv-app/CrossDeviceServices/CrossDeviceServices.apk",
+    "bytes": 29122,
+    "package": "com.google.ambient.streaming",
+    "version": "1.0",
+    "label": "@0x7f020000"
+  },
+  {
+    "path": "product/priv-app/EntertainmentSpace/EntertainmentSpace.apk",
+    "bytes": 16469418,
+    "package": "com.google.android.apps.mediahome.launcher",
+    "version": "mh.release.1.77.685793364",
+    "label": "@0x7f120128"
+  },
+  {
+    "path": "product/priv-app/FamilyLinkParentalControls/FamilyLinkParentalControls.apk",
+    "bytes": 29359922,
+    "package": "com.google.android.gms.supervision",
+    "version": "1.0.800961816.phone",
+    "label": "@0x7f150747"
+  },
+  {
+    "path": "product/priv-app/GmsCore/GmsCore.apk",
+    "bytes": 196153215,
+    "package": "com.google.android.gms",
+    "version": "25.38.30 (260400-807569344)",
+    "label": "@0x7f1507fb"
+  },
+  {
+    "path": "product/priv-app/GmsCore/m/independent/AndroidPlatformServices/AndroidPlatformServices.apk",
+    "bytes": 29543426,
+    "package": "com.google.android.gms.policy_sidecar_aps",
+    "version": "251330800025.748366938.748366938",
+    "label": null
+  },
+  {
+    "path": "product/priv-app/GoogleDialer/GoogleDialer.apk",
+    "bytes": 87577399,
+    "package": "com.google.android.dialer",
+    "version": "192.0.806919635",
+    "label": "@0x7f1400b8"
+  },
+  {
+    "path": "product/priv-app/GoogleKidsSpace/GoogleKidsSpace.apk",
+    "bytes": 18623546,
+    "package": "com.google.android.apps.kids.home",
+    "version": "kh.release.1.74.0.R.631217782",
+    "label": "@0x7f120155"
+  },
+  {
+    "path": "product/priv-app/GoogleOneTimeInitializer/GoogleOneTimeInitializer.apk",
+    "bytes": 1098306,
+    "package": "com.google.android.onetimeinitializer",
+    "version": "16-13928101",
+    "label": "@0x7f0a0001"
+  },
+  {
+    "path": "product/priv-app/GooglePartnerSetup/GooglePartnerSetup.apk",
+    "bytes": 1604141,
+    "package": "com.google.android.partnersetup",
+    "version": "100.773392826",
+    "label": "@0x7f0b0000"
+  },
+  {
+    "path": "product/priv-app/GoogleRestore/GoogleRestore.apk",
+    "bytes": 19045372,
+    "package": "com.google.android.apps.restore",
+    "version": "1.0.802985534",
+    "label": "@0x7f140213"
+  },
+  {
+    "path": "product/priv-app/GWP/GWP.apk",
+    "bytes": 3795717,
+    "package": "com.google.android.apps.carrier.carrierwifi",
+    "version": "1.6.726578950",
+    "label": "@0x7f0d001e"
+  },
+  {
+    "path": "product/priv-app/ImsServiceEntitlement/ImsServiceEntitlement.apk",
+    "bytes": 4823320,
+    "package": "com.android.imsserviceentitlement",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "product/priv-app/Messages/Messages.apk",
+    "bytes": 159787630,
+    "package": "com.google.android.apps.messaging",
+    "version": "messages.android_20250907_01_RC00.phone_dynamic",
+    "label": "@0x7f1500d1"
+  },
+  {
+    "path": "product/priv-app/MotoReadyFor/MotoReadyFor.apk",
+    "bytes": 196160569,
+    "package": "com.motorola.mobiledesktop",
+    "version": "09.0.1.007.0",
+    "label": "@0x7f14007e"
+  },
+  {
+    "path": "product/priv-app/OdadPrebuilt/OdadPrebuilt.apk",
+    "bytes": 1165529,
+    "package": "com.google.android.odad",
+    "version": "V.19.odad-stub.713132023",
+    "label": "@0x7f0e001c"
+  },
+  {
+    "path": "product/priv-app/PersonalSafety/PersonalSafety.apk",
+    "bytes": 23246091,
+    "package": "com.google.android.apps.safetyhub",
+    "version": "2025.08.06.791860033.0-release_gms",
+    "label": "@0x7f140043"
+  },
+  {
+    "path": "product/priv-app/Phonesky/Phonesky.apk",
+    "bytes": 95442231,
+    "package": "com.android.vending",
+    "version": "48.1.28-31 [0] [PR] 811267161",
+    "label": "@0x7f140147"
+  },
+  {
+    "path": "product/priv-app/PrivateComputeServices/PrivateComputeServices.apk",
+    "bytes": 30489357,
+    "package": "com.google.android.as.oss",
+    "version": "1.0.release.811839831",
+    "label": "@0x7f110198"
+  },
+  {
+    "path": "product/priv-app/SearchSelector/SearchSelector.apk",
+    "bytes": 5388832,
+    "package": "com.google.android.apps.setupwizard.searchselector",
+    "version": "1.35.808922502",
+    "label": "@0x7f1100f5"
+  },
+  {
+    "path": "product/priv-app/SettingsIntelligence/SettingsIntelligence.apk",
+    "bytes": 2703964,
+    "package": "com.android.settings.intelligence",
+    "version": "16",
+    "label": "@0x7f0d001f"
+  },
+  {
+    "path": "product/priv-app/Turbo/Turbo.apk",
+    "bytes": 12002148,
+    "package": "com.google.android.apps.turbo",
+    "version": "1.27.0.800299854.android",
+    "label": "@0x7f12001d"
+  },
+  {
+    "path": "product/priv-app/Velvet/Velvet.apk",
+    "bytes": 295496899,
+    "package": "com.google.android.googlequicksearchbox",
+    "version": "16.37.48.ve.arm64",
+    "label": "@0x7f15006c"
+  },
+  {
+    "path": "product/priv-app/Wellbeing/Wellbeing.apk",
+    "bytes": 25209328,
+    "package": "com.google.android.apps.wellbeing",
+    "version": "1.32.800272665 (762847)",
+    "label": "@0x7f110058"
+  },
+  {
+    "path": "system/system/app/BasicDreams/BasicDreams.apk",
+    "bytes": 185482,
+    "package": "com.android.dreams.basic",
+    "version": "16",
+    "label": "@0x7f050000"
+  },
+  {
+    "path": "system/system/app/BluetoothMidiService/BluetoothMidiService.apk",
+    "bytes": 29086,
+    "package": "com.android.bluetoothmidiservice",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/app/BookmarkProvider/BookmarkProvider.apk",
+    "bytes": 25328,
+    "package": "com.android.bookmarkprovider",
+    "version": "16",
+    "label": "@0x7f020000"
+  },
+  {
+    "path": "system/system/app/CameraExtensionsProxy/CameraExtensionsProxy.apk",
+    "bytes": 61854,
+    "package": "com.android.cameraextensions",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-hdpi.apk",
+    "bytes": 21403,
+    "package": "com.google.android.captiveportallogin",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-ldpi.apk",
+    "bytes": 21400,
+    "package": "com.google.android.captiveportallogin",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-mdpi.apk",
+    "bytes": 21400,
+    "package": "com.google.android.captiveportallogin",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-tvdpi.apk",
+    "bytes": 21910,
+    "package": "com.google.android.captiveportallogin",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-xhdpi.apk",
+    "bytes": 21404,
+    "package": "com.google.android.captiveportallogin",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-xxhdpi.apk",
+    "bytes": 21404,
+    "package": "com.google.android.captiveportallogin",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle-xxxhdpi.apk",
+    "bytes": 21404,
+    "package": "com.google.android.captiveportallogin",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/app/CaptivePortalLoginGoogle/CaptivePortalLoginGoogle.apk",
+    "bytes": 753098,
+    "package": "com.google.android.captiveportallogin",
+    "version": "16",
+    "label": "@0x7f090006"
+  },
+  {
+    "path": "system/system/app/CarrierDefaultApp/CarrierDefaultApp.apk",
+    "bytes": 132066,
+    "package": "com.android.carrierdefaultapp",
+    "version": "16",
+    "label": "@0x7f060002"
+  },
+  {
+    "path": "system/system/app/CertInstaller/CertInstaller.apk",
+    "bytes": 373742,
+    "package": "com.android.certinstaller",
+    "version": "16",
+    "label": "@0x7f070002"
+  },
+  {
+    "path": "system/system/app/ChromeCustomizations/ChromeCustomizations.apk",
+    "bytes": 41367,
+    "package": "com.android.providers.partnerbrowsercustomizations",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/app/CompanionDeviceManager/CompanionDeviceManager.apk",
+    "bytes": 1145308,
+    "package": "com.android.companiondevicemanager",
+    "version": "16",
+    "label": "@0x7f0c001c"
+  },
+  {
+    "path": "system/system/app/EuiccOverlay/EuiccOverlay.apk",
+    "bytes": 12702,
+    "package": "com.android.euicc",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/app/FactoryKitTest/FactoryKitTest.apk",
+    "bytes": 26580396,
+    "package": "com.yha.factory",
+    "version": "FactoryKitTest_20250808",
+    "label": "@0x7f0b0011"
+  },
+  {
+    "path": "system/system/app/FactoryServiceHQ/FactoryServiceHQ.apk",
+    "bytes": 16791,
+    "package": "com.huaqin.factoryservice",
+    "version": "2.0.3_202506131140",
+    "label": null
+  },
+  {
+    "path": "system/system/app/GoogleExtShared/GoogleExtShared.apk",
+    "bytes": 16854,
+    "package": "com.google.android.ext.shared",
+    "version": "1",
+    "label": "@0x00010000"
+  },
+  {
+    "path": "system/system/app/GooglePrintRecommendationService/GooglePrintRecommendationService.apk",
+    "bytes": 193024,
+    "package": "com.google.android.printservice.recommendation",
+    "version": "1.3.0",
+    "label": "@0x7f090001"
+  },
+  {
+    "path": "system/system/app/HTMLViewer/HTMLViewer.apk",
+    "bytes": 213523,
+    "package": "com.android.htmlviewer",
+    "version": "16",
+    "label": "@0x7f080001"
+  },
+  {
+    "path": "system/system/app/IconPackDefault/IconPackDefault.apk",
+    "bytes": 749144,
+    "package": "com.lgsi.iconpack.overlayable",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/app/KeyChain/KeyChain.apk",
+    "bytes": 3601554,
+    "package": "com.android.keychain",
+    "version": "16",
+    "label": "@0x7f0e001d"
+  },
+  {
+    "path": "system/system/app/LenovoPAI/LenovoPAI.apk",
+    "bytes": 8599,
+    "package": "android.autoinstalls.config.Lenovo.tablet",
+    "version": "1",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/app/NvService/NvService.apk",
+    "bytes": 16791,
+    "package": "com.huaqin.NvService",
+    "version": "2.0.3",
+    "label": null
+  },
+  {
+    "path": "system/system/app/PacProcessor/PacProcessor.apk",
+    "bytes": 12702,
+    "package": "com.android.pacprocessor",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/app/PartnerBookmarksProvider/PartnerBookmarksProvider.apk",
+    "bytes": 20894,
+    "package": "com.android.providers.partnerbookmarks",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/app/PrintSpooler/PrintSpooler.apk",
+    "bytes": 767618,
+    "package": "com.android.printspooler",
+    "version": "16",
+    "label": "@0x7f0b0004"
+  },
+  {
+    "path": "system/system/app/SecureElement/SecureElement.apk",
+    "bytes": 127390,
+    "package": "com.android.se",
+    "version": "16",
+    "label": "SecureElementApplication"
+  },
+  {
+    "path": "system/system/app/SimAppDialog/SimAppDialog.apk",
+    "bytes": 397705,
+    "package": "com.android.simappdialog",
+    "version": "16",
+    "label": "@0x7f0b0001"
+  },
+  {
+    "path": "system/system/app/Traceur/Traceur.apk",
+    "bytes": 5862530,
+    "package": "com.android.traceur",
+    "version": "1.0",
+    "label": "@0x7f12038b"
+  },
+  {
+    "path": "system/system/app/VantateResources/VantateResources.apk",
+    "bytes": 33745960,
+    "package": "com.tblenovo.ue.config",
+    "version": "1.0.1.1202",
+    "label": "@0x7f040005"
+  },
+  {
+    "path": "system/system/app/WallpaperBackup/WallpaperBackup.apk",
+    "bytes": 33182,
+    "package": "com.android.wallpaperbackup",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/app/ZuiKeyboardUpdate/ZuiKeyboardUpdate.apk",
+    "bytes": 12333089,
+    "package": "com.zui.keyboardupdate",
+    "version": "V_20250710",
+    "label": "@0x7f10001d"
+  },
+  {
+    "path": "system/system/app/ZuiKeyboardUpdateOlympia/ZuiKeyboardUpdateOlympia.apk",
+    "bytes": 12710434,
+    "package": "com.zui.keyboardupdate.olympia",
+    "version": "V...260114",
+    "label": "@0x7f10001f"
+  },
+  {
+    "path": "system/system/app/ZuiNetworkAclr/ZuiNetworkAclr.apk",
+    "bytes": 5713889,
+    "package": "com.zui.networkaclr",
+    "version": "7.2.0",
+    "label": "@0x7f10001d"
+  },
+  {
+    "path": "system/system/app/ZuiPP/ZuiPP.apk",
+    "bytes": 5093491,
+    "package": "com.zui.pp",
+    "version": "3.1.3.3",
+    "label": "@0x7f060000"
+  },
+  {
+    "path": "system/system/app/zuisdk-res/zuisdk-res.apk",
+    "bytes": 1000921,
+    "package": "com.zuisdk",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/etc/security/fsverity/BuildManifest.apk",
+    "bytes": 20896,
+    "package": "com.android.security.fsverity_metadata.system",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/framework/framework-res.apk",
+    "bytes": 29123182,
+    "package": "android",
+    "version": "16",
+    "label": "@0x01040157"
+  },
+  {
+    "path": "system/system/preinstall/Books/Books.apk",
+    "bytes": 19847737,
+    "package": "com.google.android.apps.books",
+    "version": "2023.12.11.0 (181826)",
+    "label": "@0x7f130054"
+  },
+  {
+    "path": "system/system/preinstall/DrivePreinstall/DrivePreinstall.apk",
+    "bytes": 60544482,
+    "package": "com.google.android.apps.docs",
+    "version": "2.25.250.0.all.alldpi",
+    "label": "@0x7f1403ca"
+  },
+  {
+    "path": "system/system/preinstall/FilesGoogle/FilesGoogle.apk",
+    "bytes": 27201452,
+    "package": "com.google.android.apps.nbu.files",
+    "version": "1.8662.804056183.0-release",
+    "label": "@0x7f1301c4"
+  },
+  {
+    "path": "system/system/preinstall/Moffice_ROW/Moffice_ROW.apk",
+    "bytes": 149127832,
+    "package": "cn.wps.moffice_eng",
+    "version": "18.17.2",
+    "label": "@0x7f132c95"
+  },
+  {
+    "path": "system/system/preinstall/MyScript_Calculator/MyScript_Calculator.apk",
+    "bytes": 14833486,
+    "package": "com.myscript.calculator.lenovo",
+    "version": "2.1.6",
+    "label": "@0x7f12001c"
+  },
+  {
+    "path": "system/system/preinstall/MyScript_Nebo/MyScript_Nebo.apk",
+    "bytes": 86230582,
+    "package": "com.myscript.nebo.lenovo",
+    "version": "6.4.13",
+    "label": "@0x7f1200aa"
+  },
+  {
+    "path": "system/system/preinstall/PlayGames/PlayGames.apk",
+    "bytes": 21012477,
+    "package": "com.google.android.play.games",
+    "version": "2023.07.44598 (552511259.552511259-000400)",
+    "label": "@0x7f14044a"
+  },
+  {
+    "path": "system/system/preinstall/RuStore/RuStore.apk",
+    "bytes": 67860535,
+    "package": "ru.vk.store",
+    "version": "1.59.2.0",
+    "label": "@0x7f130091"
+  },
+  {
+    "path": "system/system/preinstall/VideosPreinstall/VideosPreinstall.apk",
+    "bytes": 26126545,
+    "package": "com.google.android.videos",
+    "version": "4.39.3208.761013668.5-release",
+    "label": "@0x7f1402ec"
+  },
+  {
+    "path": "system/system/preinstall/XuiRecorder/XuiRecorder.apk",
+    "bytes": 10183717,
+    "package": "com.zui.recorder",
+    "version": "6.2.18.0174",
+    "label": "@0x7f0f001d"
+  },
+  {
+    "path": "system/system/preinstall/YouTubeKids/YouTubeKids.apk",
+    "bytes": 56256984,
+    "package": "com.google.android.apps.youtube.kids",
+    "version": "9.47.1",
+    "label": "@0x7f140140"
+  },
+  {
+    "path": "system/system/preinstall/YTMusicPreinstall/YTMusicPreinstall.apk",
+    "bytes": 63166515,
+    "package": "com.google.android.apps.youtube.music",
+    "version": "8.26.51",
+    "label": "@0x7f140128"
+  },
+  {
+    "path": "system/system/preinstall/ZuiHFWallpaper/ZuiHFWallpaper.apk",
+    "bytes": 2245318,
+    "package": "com.hf.app.wallpaper",
+    "version": "1.0.03",
+    "label": "@0x7f0f001c"
+  },
+  {
+    "path": "system/system/preinstall/ZuiNotes/ZuiNotes.apk",
+    "bytes": 121285489,
+    "package": "com.zui.notes",
+    "version": "7.2.2.260316_3.0.2_3.1.3_2.1.1",
+    "label": "@0x7f1304ec"
+  },
+  {
+    "path": "system/system/preinstall/ZuiWeather/ZuiWeather.apk",
+    "bytes": 18430891,
+    "package": "com.zui.weather",
+    "version": "18.0.0.0280",
+    "label": "@0x7f120027"
+  },
+  {
+    "path": "system/system/priv-app/BackupRestoreConfirmation/BackupRestoreConfirmation.apk",
+    "bytes": 315940,
+    "package": "com.android.backupconfirm",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/BlockedNumberProvider/BlockedNumberProvider.apk",
+    "bytes": 45470,
+    "package": "com.android.providers.blockednumber",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/priv-app/BuiltInPrintService/BuiltInPrintService.apk",
+    "bytes": 432437,
+    "package": "com.android.bips",
+    "version": "16",
+    "label": "@0x7f080005"
+  },
+  {
+    "path": "system/system/priv-app/CallLogBackup/CallLogBackup.apk",
+    "bytes": 29441,
+    "package": "com.android.calllogbackup",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/priv-app/CellBroadcastLegacyApp/CellBroadcastLegacyApp.apk",
+    "bytes": 914814,
+    "package": "com.android.cellbroadcastreceiver",
+    "version": "R-initial",
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/CredentialManager/CredentialManager.apk",
+    "bytes": 5547264,
+    "package": "com.android.credentialmanager",
+    "version": "16",
+    "label": "@0x7f0e0022"
+  },
+  {
+    "path": "system/system/priv-app/DeviceAsWebcam/DeviceAsWebcam.apk",
+    "bytes": 2115948,
+    "package": "com.android.DeviceAsWebcam",
+    "version": "16",
+    "label": "@0x7f0d001c"
+  },
+  {
+    "path": "system/system/priv-app/DeviceDiagnostics/DeviceDiagnostics.apk",
+    "bytes": 11501600,
+    "package": "com.android.devicediagnostics",
+    "version": "16",
+    "label": "@0x7f11006a"
+  },
+  {
+    "path": "system/system/priv-app/DMService/DMService.apk",
+    "bytes": 422062,
+    "package": "com.motorola.omadm.service",
+    "version": "1.0.0",
+    "label": "@0x7f0a0004"
+  },
+  {
+    "path": "system/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-hdpi.apk",
+    "bytes": 49623,
+    "package": "com.google.android.documentsui",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-ldpi.apk",
+    "bytes": 45501,
+    "package": "com.google.android.documentsui",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-mdpi.apk",
+    "bytes": 45501,
+    "package": "com.google.android.documentsui",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-tvdpi.apk",
+    "bytes": 74227,
+    "package": "com.google.android.documentsui",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-xhdpi.apk",
+    "bytes": 53754,
+    "package": "com.google.android.documentsui",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-xxhdpi.apk",
+    "bytes": 57878,
+    "package": "com.google.android.documentsui",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle-xxxhdpi.apk",
+    "bytes": 61972,
+    "package": "com.google.android.documentsui",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/DocumentsUIGoogle/DocumentsUIGoogle.apk",
+    "bytes": 7945215,
+    "package": "com.google.android.documentsui",
+    "version": "16",
+    "label": "@0x7f1000b0"
+  },
+  {
+    "path": "system/system/priv-app/DownloadProvider/DownloadProvider.apk",
+    "bytes": 345371,
+    "package": "com.android.providers.downloads",
+    "version": "16",
+    "label": "@0x7f030000"
+  },
+  {
+    "path": "system/system/priv-app/DownloadProviderUi/DownloadProviderUi.apk",
+    "bytes": 156552,
+    "package": "com.android.providers.downloads.ui",
+    "version": "16",
+    "label": "@0x7f020000"
+  },
+  {
+    "path": "system/system/priv-app/DynamicSystemInstallationService/DynamicSystemInstallationService.apk",
+    "bytes": 98811,
+    "package": "com.android.dynsystem",
+    "version": "16",
+    "label": "@0x7f020000"
+  },
+  {
+    "path": "system/system/priv-app/E2eeContactKeysProvider/E2eeContactKeysProvider.apk",
+    "bytes": 29497,
+    "package": "com.android.providers.contactkeys",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/priv-app/EngineeringCode/EngineeringCode.apk",
+    "bytes": 739310,
+    "package": "com.lenovo.EngineeringCode",
+    "version": "1.0",
+    "label": "@0x7f060017"
+  },
+  {
+    "path": "system/system/priv-app/EuiccGoogle/EuiccGoogle.apk",
+    "bytes": 13530282,
+    "package": "com.google.android.euicc",
+    "version": "D.2.1.692833496-gms",
+    "label": "@0x7f1301b5"
+  },
+  {
+    "path": "system/system/priv-app/ExternalStorageProvider/ExternalStorageProvider.apk",
+    "bytes": 49566,
+    "package": "com.android.externalstorage",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/priv-app/FusedLocation/FusedLocation.apk",
+    "bytes": 29086,
+    "package": "com.android.location.fused",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/priv-app/GooglePackageInstaller/GooglePackageInstaller.apk",
+    "bytes": 4475084,
+    "package": "com.google.android.packageinstaller",
+    "version": "16-13928101",
+    "label": "@0x7f100021"
+  },
+  {
+    "path": "system/system/priv-app/InputDevices/InputDevices.apk",
+    "bytes": 209856,
+    "package": "com.android.inputdevices",
+    "version": "16",
+    "label": "@0x7f020000"
+  },
+  {
+    "path": "system/system/priv-app/LenovoLoggerPannel/LenovoLoggerPannel.apk",
+    "bytes": 3608300,
+    "package": "com.zui.SecretCode",
+    "version": "5.0",
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/LenovoOTA/LenovoOTA.apk",
+    "bytes": 12721547,
+    "package": "com.lenovo.ota",
+    "version": "V9.2.1.251202",
+    "label": "@0x7f0f0021"
+  },
+  {
+    "path": "system/system/priv-app/LenovoWhatsNew/LenovoWhatsNew.apk",
+    "bytes": 5613214,
+    "package": "com.tblenovo.lenovowhatsnew",
+    "version": "V1.1.34.260423",
+    "label": "@0x7f0f0029"
+  },
+  {
+    "path": "system/system/priv-app/LiveWallpapersPicker/LiveWallpapersPicker.apk",
+    "bytes": 4006118,
+    "package": "com.android.wallpaper.livepicker",
+    "version": "16",
+    "label": "@0x7f110028"
+  },
+  {
+    "path": "system/system/priv-app/LocalTransport/LocalTransport.apk",
+    "bytes": 33182,
+    "package": "com.android.localtransport",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/LSF-Device-Phone/LSF-Device-Phone.apk",
+    "bytes": 285900,
+    "package": "com.lenovo.lsf.device",
+    "version": "V5.0.2.0189trn",
+    "label": "@0x7f090017"
+  },
+  {
+    "path": "system/system/priv-app/ManagedProvisioning/ManagedProvisioning.apk",
+    "bytes": 5453615,
+    "package": "com.android.managedprovisioning",
+    "version": "16",
+    "label": "@0x7f100024"
+  },
+  {
+    "path": "system/system/priv-app/MediaProviderLegacy/MediaProviderLegacy.apk",
+    "bytes": 947582,
+    "package": "com.android.providers.media",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/MtkCalendarProvider/MtkCalendarProvider.apk",
+    "bytes": 292013,
+    "package": "com.android.providers.calendar",
+    "version": "16",
+    "label": "@0x7f040006"
+  },
+  {
+    "path": "system/system/priv-app/MtkContactsProvider/MtkContactsProvider.apk",
+    "bytes": 771693,
+    "package": "com.android.providers.contacts",
+    "version": "16",
+    "label": "@0x7f030000"
+  },
+  {
+    "path": "system/system/priv-app/MtkMmsService/MtkMmsService.apk",
+    "bytes": 300609,
+    "package": "com.android.mms.service",
+    "version": "16",
+    "label": "MmsService"
+  },
+  {
+    "path": "system/system/priv-app/MtkTelecom/MtkTelecom.apk",
+    "bytes": 2144952,
+    "package": "com.android.server.telecom",
+    "version": "16",
+    "label": "@0x7f0d00b0"
+  },
+  {
+    "path": "system/system/priv-app/MtkTelephonyProvider/MtkTelephonyProvider.apk",
+    "bytes": 549870,
+    "package": "com.android.providers.telephony",
+    "version": "16",
+    "label": "@0x7f030001"
+  },
+  {
+    "path": "system/system/priv-app/MtkTeleService/MtkTeleService.apk",
+    "bytes": 7135614,
+    "package": "com.android.phone",
+    "version": "16",
+    "label": "@0x7f0e02c4"
+  },
+  {
+    "path": "system/system/priv-app/MtpService/MtpService.apk",
+    "bytes": 1161586,
+    "package": "com.android.mtp",
+    "version": "16",
+    "label": "@0x7f0d001d"
+  },
+  {
+    "path": "system/system/priv-app/MusicFX/MusicFX.apk",
+    "bytes": 308948,
+    "package": "com.android.musicfx",
+    "version": "1.4",
+    "label": "@0x7f080001"
+  },
+  {
+    "path": "system/system/priv-app/NetworkStackGoogle/NetworkStackGoogle-arm64_v8a.apk",
+    "bytes": 370381,
+    "package": "com.google.android.networkstack",
+    "version": null,
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/NetworkStackGoogle/NetworkStackGoogle.apk",
+    "bytes": 1207109,
+    "package": "com.google.android.networkstack",
+    "version": "16",
+    "label": "@0x7f050000"
+  },
+  {
+    "path": "system/system/priv-app/ONS/ONS.apk",
+    "bytes": 90633,
+    "package": "com.android.ons",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/PenService/PenService.apk",
+    "bytes": 222066124,
+    "package": "com.lenovo.penservice",
+    "version": "1.8.220260526",
+    "label": "@0x7f13002b"
+  },
+  {
+    "path": "system/system/priv-app/ProxyHandler/ProxyHandler.apk",
+    "bytes": 20894,
+    "package": "com.android.proxyhandler",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/priv-app/SharedStorageBackup/SharedStorageBackup.apk",
+    "bytes": 16798,
+    "package": "com.android.sharedstoragebackup",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system/system/priv-app/Shell/Shell.apk",
+    "bytes": 443777,
+    "package": "com.android.shell",
+    "version": "16",
+    "label": "@0x7f0a0001"
+  },
+  {
+    "path": "system/system/priv-app/SycamoreSarReduce/SycamoreSarReduce.apk",
+    "bytes": 886107,
+    "package": "com.sar.main",
+    "version": "1.0.5",
+    "label": "@0x7f0a0000"
+  },
+  {
+    "path": "system/system/priv-app/SycamoreStk/SycamoreStk.apk",
+    "bytes": 4867075,
+    "package": "com.android.stk",
+    "version": "16",
+    "label": "@0x7f0e0023"
+  },
+  {
+    "path": "system/system/priv-app/TabletPushOut/TabletPushOut.apk",
+    "bytes": 277022,
+    "package": "com.tblenovo.tabpushout",
+    "version": "V1.0.17.260414",
+    "label": "@0x7f090000"
+  },
+  {
+    "path": "system/system/priv-app/TabletUE/TabletUE.apk",
+    "bytes": 526034,
+    "package": "com.lenovo.ue.device",
+    "version": "8.6.233-gbe68ba5-ROW",
+    "label": "@0x7f040000"
+  },
+  {
+    "path": "system/system/priv-app/TagGoogle/TagGoogle.apk",
+    "bytes": 733450,
+    "package": "com.google.android.tag",
+    "version": "1.1",
+    "label": "@0x7f0b0003"
+  },
+  {
+    "path": "system/system/priv-app/ThemesProvider/ThemesProvider.apk",
+    "bytes": 12695,
+    "package": "com.zui.themes.provider",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/priv-app/UDSEngine/UDSEngine.apk",
+    "bytes": 20097124,
+    "package": "com.lenovo.tbengine",
+    "version": "V1.1.1.260120",
+    "label": "@0x7f0c001f"
+  },
+  {
+    "path": "system/system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk",
+    "bytes": 29086,
+    "package": "com.android.providers.userdictionary",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system/system/priv-app/VpnDialogs/VpnDialogs.apk",
+    "bytes": 99012,
+    "package": "com.android.vpndialogs",
+    "version": "16",
+    "label": "VpnDialogs"
+  },
+  {
+    "path": "system/system/priv-app/VzwDM/VzwDM.apk",
+    "bytes": 987308,
+    "package": "com.motorola.omadm.vzw",
+    "version": "1.0",
+    "label": "@0x7f090000"
+  },
+  {
+    "path": "system/system/priv-app/WeatherCenter/WeatherCenter.apk",
+    "bytes": 3666370,
+    "package": "com.lenovo.weathercenter",
+    "version": "18.0.1.0050",
+    "label": "@0x7f0d001c"
+  },
+  {
+    "path": "system/system/priv-app/ZuiAIService/ZuiAIService.apk",
+    "bytes": 30372546,
+    "package": "com.zui.ai.aiservice",
+    "version": "1.1.15.118.251230",
+    "label": "@0x7f110020"
+  },
+  {
+    "path": "system/system/priv-app/ZuiCamera/ZuiCamera.apk",
+    "bytes": 243684497,
+    "package": "com.zui.camera",
+    "version": "18.0.1.260525195635",
+    "label": "@0x7f100022"
+  },
+  {
+    "path": "system/system/priv-app/ZuiCameraAssistant/ZuiCameraAssistant.apk",
+    "bytes": 13754814,
+    "package": "com.zui.camera.assistant",
+    "version": "18.0.1.260526212603",
+    "label": "@0x7f0f001c"
+  },
+  {
+    "path": "system/system/priv-app/ZuiCameraQR/ZuiCameraQR.apk",
+    "bytes": 13680049,
+    "package": "com.zui.camera.qr",
+    "version": "18.0.1.260525195735",
+    "label": "@0x7f0f0189"
+  },
+  {
+    "path": "system/system/priv-app/ZUIDemoMode/ZUIDemoMode.apk",
+    "bytes": 3871510,
+    "package": "com.motorola.demo",
+    "version": "20260417",
+    "label": "@0x7f0d002c"
+  },
+  {
+    "path": "system/system/priv-app/ZuiFileTransfer/ZuiFileTransfer.apk",
+    "bytes": 13500863,
+    "package": "com.zui.wifip2p",
+    "version": "15.0.0992",
+    "label": "@0x7f0f0028"
+  },
+  {
+    "path": "system/system/priv-app/ZuiFreeformBar/ZuiFreeformBar.apk",
+    "bytes": 10441990,
+    "package": "com.zui.freeform.sidebar",
+    "version": "1.18.02.2.2",
+    "label": "@0x7f10001c"
+  },
+  {
+    "path": "system/system/priv-app/ZuiHomeSettings/ZuiHomeSettings.apk",
+    "bytes": 14911606,
+    "package": "com.zui.homesettings",
+    "version": "18.1.0.0059",
+    "label": "@0x7f0c00a3"
+  },
+  {
+    "path": "system/system/priv-app/ZuiIntentResolver/ZuiIntentResolver.apk",
+    "bytes": 28117105,
+    "package": "com.zui.resolver",
+    "version": "7.0.0.0324-2025.12.30-release",
+    "label": "@0x7f0e0021"
+  },
+  {
+    "path": "system/system/priv-app/ZuiLauncher/ZuiLauncher.apk",
+    "bytes": 47724599,
+    "package": "com.zui.launcher",
+    "version": "18.1.0",
+    "label": "@0x7f110182"
+  },
+  {
+    "path": "system/system/priv-app/ZuiLauncherPC/ZuiLauncherPC.apk",
+    "bytes": 35531725,
+    "package": "com.zui.desktoplauncher",
+    "version": "18.0.0.0163",
+    "label": "@0x7f1003b2"
+  },
+  {
+    "path": "system/system/priv-app/ZuiLenovoPrivacy/ZuiLenovoPrivacy.apk",
+    "bytes": 16816255,
+    "package": "com.lenovo.lenovoprivacy",
+    "version": "1.0",
+    "label": "@0x7f1000b2"
+  },
+  {
+    "path": "system/system/priv-app/ZuiScreenSplit/ZuiScreenSplit.apk",
+    "bytes": 9422899,
+    "package": "com.lenovo.screensplit",
+    "version": "18.0.0.0073",
+    "label": "@0x7f10001e"
+  },
+  {
+    "path": "system/system/priv-app/ZuiSettings/ZuiSettings.apk",
+    "bytes": 165550717,
+    "package": "com.android.settings",
+    "version": "17.5.0",
+    "label": "@0x7f151a92"
+  },
+  {
+    "path": "system/system/priv-app/ZUISetupWizardExtROW/ZUISetupWizardExtROW.apk",
+    "bytes": 20806276,
+    "package": "com.tblenovo.setup",
+    "version": "17.5.0.260423.b4fc6b9",
+    "label": "@0x7f120059"
+  },
+  {
+    "path": "system/system/priv-app/ZuiSoundPicker/ZuiSoundPicker.apk",
+    "bytes": 15840626,
+    "package": "com.android.soundpicker",
+    "version": "16.0.0469",
+    "label": "@0x7f1000a2"
+  },
+  {
+    "path": "system/system/priv-app/ZuiStandbyMode/ZuiStandbyMode.apk",
+    "bytes": 105059137,
+    "package": "com.lenovo.screensaver",
+    "version": "16A-202603201700",
+    "label": "@0x7f120021"
+  },
+  {
+    "path": "system/system/priv-app/ZuiThemeSettings/ZuiThemeSettings.apk",
+    "bytes": 10505728,
+    "package": "com.zui.theme.settings",
+    "version": "17.0.00.0021",
+    "label": "@0x7f10001d"
+  },
+  {
+    "path": "system/system/priv-app/ZuiUDevice/ZuiUDevice.apk",
+    "bytes": 51503584,
+    "package": "com.zui.udevice",
+    "version": "2.0.0.0652-2026.04.27-release",
+    "label": "@0x7f10001d"
+  },
+  {
+    "path": "system/system/priv-app/ZuiWallpaperSetting/ZuiWallpaperSetting.apk",
+    "bytes": 300646837,
+    "package": "com.zui.wallpapersetting",
+    "version": "18.2.0",
+    "label": "@0x7f11007b"
+  },
+  {
+    "path": "system_ext/app/AccessibilityMenu/AccessibilityMenu.apk",
+    "bytes": 2487860,
+    "package": "com.android.systemui.accessibility.accessibilitymenu",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system_ext/app/ATMWifiMeta/ATMWifiMeta.apk",
+    "bytes": 1156709,
+    "package": "com.mediatek.atmwifimeta",
+    "version": "2.1.01.00",
+    "label": "@0x7f0d0036"
+  },
+  {
+    "path": "system_ext/app/DebugLoggerUI/DebugLoggerUI.apk",
+    "bytes": 1034932,
+    "package": "com.debug.loggerui",
+    "version": "6.2.0",
+    "label": "@0x7f090004"
+  },
+  {
+    "path": "system_ext/app/LocationEM2/LocationEM2.apk",
+    "bytes": 4513251,
+    "package": "com.mediatek.lbs.em2.ui",
+    "version": "1.0",
+    "label": "@0x7f0e0050"
+  },
+  {
+    "path": "system_ext/app/MDMConfig/MDMConfig.apk",
+    "bytes": 37711,
+    "package": "com.mediatek.mdmconfig",
+    "version": "16",
+    "label": "@0x7f050001"
+  },
+  {
+    "path": "system_ext/app/MDMLSample/MDMLSample.apk",
+    "bytes": 128029,
+    "package": "com.mediatek.mdmlsample",
+    "version": "16",
+    "label": "@0x7f060004"
+  },
+  {
+    "path": "system_ext/app/mediatek-res/mediatek-res.apk",
+    "bytes": 2033148,
+    "package": "com.mediatek",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system_ext/app/MiraVision/MiraVision.apk",
+    "bytes": 65138972,
+    "package": "com.mediatek.miravision.ui",
+    "version": "16",
+    "label": "@0x7f080020"
+  },
+  {
+    "path": "system_ext/etc/security/fsverity/BuildManifestSystemExt.apk",
+    "bytes": 12704,
+    "package": "com.android.security.fsverity_metadata.system_ext",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system_ext/priv-app/AvatarPicker/AvatarPicker.apk",
+    "bytes": 6587475,
+    "package": "com.android.avatarpicker",
+    "version": "16",
+    "label": "@0x7f0f001f"
+  },
+  {
+    "path": "system_ext/priv-app/CallRecorderService/CallRecorderService.apk",
+    "bytes": 74603,
+    "package": "com.mediatek.callrecorder",
+    "version": "16",
+    "label": "@0x7f020002"
+  },
+  {
+    "path": "system_ext/priv-app/CarrierConfig/CarrierConfig.apk",
+    "bytes": 371091,
+    "package": "com.android.carrierconfig",
+    "version": "1.0.0",
+    "label": null
+  },
+  {
+    "path": "system_ext/priv-app/DataChannelService/DataChannelService.apk",
+    "bytes": 106910,
+    "package": "com.mediatek.datachannel.service",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system_ext/priv-app/daxService/daxService.apk",
+    "bytes": 3259235,
+    "package": "com.dolby.daxservice",
+    "version": "16",
+    "label": "@0x7f10001c"
+  },
+  {
+    "path": "system_ext/priv-app/EmergencyInfoGms/EmergencyInfoGms.apk",
+    "bytes": 3551337,
+    "package": "com.android.emergency",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system_ext/priv-app/GeofenceService/GeofenceService.apk",
+    "bytes": 20894,
+    "package": "com.mediatek.location.mtkgeofence",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system_ext/priv-app/GoogleFeedback/GoogleFeedback.apk",
+    "bytes": 540428,
+    "package": "com.google.android.feedback",
+    "version": "16-13928101",
+    "label": "@0x7f060001"
+  },
+  {
+    "path": "system_ext/priv-app/GoogleServicesFramework/GoogleServicesFramework.apk",
+    "bytes": 1120011,
+    "package": "com.google.android.gsf",
+    "version": "16-13928101",
+    "label": "@0x7f0b0034"
+  },
+  {
+    "path": "system_ext/priv-app/ImsService/ImsService.apk",
+    "bytes": 9560691,
+    "package": "com.mediatek.ims",
+    "version": "16",
+    "label": "ImsApp"
+  },
+  {
+    "path": "system_ext/priv-app/LPPeService/LPPeService.apk",
+    "bytes": 168600,
+    "package": "com.mediatek.location.lppe.main",
+    "version": "1.0",
+    "label": "@0x7f050001"
+  },
+  {
+    "path": "system_ext/priv-app/MotorolaSettingsProvider/MotorolaSettingsProvider.apk",
+    "bytes": 168442,
+    "package": "com.motorola.android.providers.settings",
+    "version": "16",
+    "label": "@0x7f060028"
+  },
+  {
+    "path": "system_ext/priv-app/MtkCapCtrl/MtkCapCtrl.apk",
+    "bytes": 61854,
+    "package": "com.mediatek.capctrl.service",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system_ext/priv-app/MtkGbaService/MtkGbaService.apk",
+    "bytes": 45470,
+    "package": "com.mediatek.gbaservice",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system_ext/priv-app/MtkSettingsProvider/MtkSettingsProvider.apk",
+    "bytes": 565570,
+    "package": "com.android.providers.settings",
+    "version": "16",
+    "label": "@0x7f080001"
+  },
+  {
+    "path": "system_ext/priv-app/MtkTelephonyAssist/MtkTelephonyAssist.apk",
+    "bytes": 86430,
+    "package": "com.mediatek.telephony",
+    "version": "16",
+    "label": "@0x7f010000"
+  },
+  {
+    "path": "system_ext/priv-app/ReadyForCore/ReadyForCore.apk",
+    "bytes": 4202415,
+    "package": "com.motorola.mobiledesktop.core",
+    "version": "03.16.0000.08",
+    "label": "@0x7f0f0027"
+  },
+  {
+    "path": "system_ext/priv-app/SetupWizard/SetupWizard.apk",
+    "bytes": 15826240,
+    "package": "com.google.android.setupwizard",
+    "version": "236.808841380",
+    "label": "@0x7f120262"
+  },
+  {
+    "path": "system_ext/priv-app/SimProcessor/SimProcessor.apk",
+    "bytes": 74142,
+    "package": "com.mediatek.simprocessor",
+    "version": "16",
+    "label": "SimProcessor"
+  },
+  {
+    "path": "system_ext/priv-app/SmartRatSwitch/SmartRatSwitch.apk",
+    "bytes": 327511,
+    "package": "com.mediatek.smartratswitch.service",
+    "version": "15",
+    "label": "@0x7f0a0001"
+  },
+  {
+    "path": "system_ext/priv-app/StorageManager/StorageManager.apk",
+    "bytes": 8543602,
+    "package": "com.android.storagemanager",
+    "version": "16",
+    "label": "@0x7f120069"
+  },
+  {
+    "path": "system_ext/priv-app/VoiceCommand/VoiceCommand.apk",
+    "bytes": 545739,
+    "package": "com.mediatek.voicecommand",
+    "version": "1.0",
+    "label": "@0x7f050002"
+  },
+  {
+    "path": "system_ext/priv-app/VoiceUnlock/VoiceUnlock.apk",
+    "bytes": 30918496,
+    "package": "com.mediatek.voiceunlock",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system_ext/priv-app/WallpaperCropper/WallpaperCropper.apk",
+    "bytes": 123983,
+    "package": "com.android.wallpapercropper",
+    "version": "16",
+    "label": null
+  },
+  {
+    "path": "system_ext/priv-app/ZuiSystemUI/ZuiSystemUI.apk",
+    "bytes": 205487687,
+    "package": "com.android.systemui",
+    "version": "16",
+    "label": "@0x7f1301aa"
+  }
+]

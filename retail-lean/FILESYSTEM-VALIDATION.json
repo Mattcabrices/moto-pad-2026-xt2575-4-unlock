@@ -1,0 +1,66 @@
+{
+  "status": "OFFLINE FILESYSTEM VALIDATION PASSED - NOT BOOT TESTED",
+  "partitions": [
+    {
+      "partition": "system_a",
+      "filesystem_roundtrip_valid": true,
+      "entries": 4151,
+      "regular_files": 3535,
+      "file_bytes": 3655952907,
+      "image_bytes": 2663956480,
+      "stock_partition_bytes": 3148300288,
+      "fits_stock_partition": true,
+      "stock_extracted_image_unchanged": true,
+      "filesystem_features": [
+        "sb_csum",
+        "mtime",
+        "xattr_filter",
+        "lz4_0padding"
+      ],
+      "image_sha256": "fde455fed3e34334808edce20a3603dede231d3bf3ff93b4393cc2040f7e3ba7"
+    },
+    {
+      "partition": "product_a",
+      "filesystem_roundtrip_valid": true,
+      "entries": 563,
+      "regular_files": 476,
+      "file_bytes": 2637253374,
+      "image_bytes": 1762942976,
+      "stock_partition_bytes": 1980006400,
+      "fits_stock_partition": true,
+      "stock_extracted_image_unchanged": true,
+      "filesystem_features": [
+        "sb_csum",
+        "mtime",
+        "xattr_filter",
+        "lz4_0padding"
+      ],
+      "image_sha256": "55d3d7e7bb397582299f839ef67e158948851de40e513235b8e0ecb3eb3654b0"
+    },
+    {
+      "partition": "system_ext_a",
+      "filesystem_roundtrip_valid": true,
+      "entries": 793,
+      "regular_files": 720,
+      "file_bytes": 872025292,
+      "image_bytes": 581251072,
+      "stock_partition_bytes": 592683008,
+      "fits_stock_partition": true,
+      "stock_extracted_image_unchanged": true,
+      "filesystem_features": [
+        "sb_csum",
+        "mtime",
+        "xattr_filter",
+        "lz4_0padding"
+      ],
+      "image_sha256": "c1c443b3ff021e595b01ec0917c6b2cf47f57bae75eb00b59aad0b4f7893d15a"
+    }
+  ],
+  "package_removals_verified": true,
+  "manufacturer_signing": false,
+  "avb_chain_updated": false,
+  "device_flashed": false,
+  "device_boot_tested": false,
+  "stock_motorola_boot_animation_verified": true,
+  "unchanged_product_system_ext_validation_reused": true
+}

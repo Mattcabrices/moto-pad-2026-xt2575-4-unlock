@@ -1,0 +1,70 @@
+{
+  "release": "oem-retail-lean-v1",
+  "target_model": "XT2575-4",
+  "source_model": "XT2575-3",
+  "source_build": "XT2575-3_ROW_OPEN_USER_M1317.3_W_ZUI_17.5.10.109_ST_260605",
+  "android_version": 16,
+  "security_patch": "2026-06-05",
+  "tested_hardware_baseline": "XT2575-4 ZUI 17.5.10.020 kernel/vendor/boot firmware",
+  "avb_flags": 3,
+  "bootloader_must_remain_unlocked": true,
+  "removed_packages": 27,
+  "removed_apks": 29,
+  "removed_apk_bytes": 840941104,
+  "images": [
+    {
+      "partition": "system_a",
+      "filename": "system_a.travel-lean.UNSIGNED.img",
+      "bytes": 2663956480,
+      "sha256": "fde455fed3e34334808edce20a3603dede231d3bf3ff93b4393cc2040f7e3ba7",
+      "parts": [
+        {
+          "filename": "system_a.travel-lean.UNSIGNED.img.part01",
+          "bytes": 1073741824,
+          "sha256": "9afbbc11d991b8cfa99584b71e71e4083c26cdedf21682864569377c7ba56ad0"
+        },
+        {
+          "filename": "system_a.travel-lean.UNSIGNED.img.part02",
+          "bytes": 1073741824,
+          "sha256": "902509ae7e10fba95a91eb7d3cdca1cfc797f63ec7248504ce024ed542fc2a91"
+        },
+        {
+          "filename": "system_a.travel-lean.UNSIGNED.img.part03",
+          "bytes": 516472832,
+          "sha256": "c070f51de33dfd78609fc81d4c2902c44956af2aae0e2e27e6803cbc59f7ef6b"
+        }
+      ]
+    },
+    {
+      "partition": "product_a",
+      "filename": "product_a.travel-lean.UNSIGNED.img",
+      "bytes": 1762942976,
+      "sha256": "55d3d7e7bb397582299f839ef67e158948851de40e513235b8e0ecb3eb3654b0"
+    },
+    {
+      "partition": "system_ext_a",
+      "filename": "system_ext_a.travel-lean.UNSIGNED.img",
+      "bytes": 581251072,
+      "sha256": "c1c443b3ff021e595b01ec0917c6b2cf47f57bae75eb00b59aad0b4f7893d15a"
+    },
+    {
+      "partition": "vbmeta_a",
+      "filename": "vbmeta-020.custom-os-flags3.img",
+      "bytes": 12288,
+      "sha256": "f1dca7b6e08be57425be32e329199e127c40d8bd8409d10f33882fae2033e4e5"
+    }
+  ],
+  "hardware_test": {
+    "units": 1,
+    "boot_after_recovery_factory_reset": true,
+    "owner_reports": [
+      "Audio works",
+      "Multitasking works",
+      "Dolby Atmos remains enabled",
+      "Fully functional in owner use so far"
+    ],
+    "independent_comprehensive_hardware_test": false
+  },
+  "kernel_vendor_bootloader_preloader_modem_included": false,
+  "source_archive_sha256": "b6ef1ae98ba8bb5dc8c81af33bac98394fac511cf749d94e57d67d9772a64124"
+}

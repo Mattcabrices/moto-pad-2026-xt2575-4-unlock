@@ -1,5 +1,10 @@
 # Moto Pad 2026 (XT2575-4) Bootloader Unlock — Val Protocol build
 
+## Lean OEM Android build
+
+The [Moto Pad OEM Retail Lean build](retail-lean/README.md) removes unwanted preloads while retaining the OEM tablet features. See the [download and installation release](https://github.com/Mattcabrices/moto-pad-2026-xt2575-4-unlock/releases/tag/oem-retail-lean-v1) for verified images, supported baseline, owner testing and restore instructions.
+
+
 **STOP AND READ [SAFETY.md](SAFETY.md) FIRST.** Bootloader modification can
 permanently brick the tablet. Unlocking erases all user data. Use this only on
 hardware you own or are explicitly authorized to service.

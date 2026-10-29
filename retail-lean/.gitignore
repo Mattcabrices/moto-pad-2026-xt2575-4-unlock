@@ -1,0 +1,12 @@
+/stock-images/
+/stock-tree/
+/validation-tree/
+/output/
+/__pycache__/
+/*.stock.toml
+/*.lean.toml
+/*.roundtrip.toml
+/*.img
+/*.img.part*
+/*.tar
+/*.zip
