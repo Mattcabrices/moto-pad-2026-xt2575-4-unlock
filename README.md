@@ -20,7 +20,10 @@ hardware you own or are explicitly authorized to service.
 - `fastboot oem unlock`: `Start unlock flow` → `unlock success` → `OKAY`
 - Final state: `unlocked: yes`; Android `ro.boot.flash.locked=0`,
   `ro.boot.verifiedbootstate=orange`
-- Tested on **one unit only**. The device serial is intentionally omitted.
+- Original maintainer hardware validation: **one unit**. The device serial is intentionally omitted.
+- An additional XT2575-4 owner reports a successful unlock and subsequent root.
+  See [community success reports](SUCCESS-REPORTS.md) for attribution, configuration,
+  observed differences and evidence limits. This is not an additional retail-ROM test.
 
 ## What this is
 
