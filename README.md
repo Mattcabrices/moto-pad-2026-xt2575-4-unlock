@@ -25,6 +25,25 @@ hardware you own or are explicitly authorized to service.
   See [community success reports](SUCCESS-REPORTS.md) for attribution, configuration,
   observed differences and evidence limits. This is not an additional retail-ROM test.
 
+## Official alternative (reported, not tested here)
+
+[@CrystalFern reports](https://github.com/Mattcabrices/moto-pad-2026-xt2575-4-unlock/issues/1) that Lenovo's ZUI site
+can issue an official unlock image for this tablet, which would avoid flashing a patched LK. Consider it first.
+
+1. Apply at <https://www.zui.com/iunlock> (Chinese; reported to need submitting with page translation off).
+   The reported device option is the one for Y700 and Y900 11 & 13.
+2. Flash the image Lenovo emails you: `fastboot flash unlock "path/to/image.img"`
+3. Run `fastboot oem unlock` and press Volume Up within about 5 seconds.
+
+Before you try it:
+
+- The maintainer has not tested this. The page does not name the Moto Pad or XT2575-4, so approval is not guaranteed.
+- It is consistent with our analysis: stock LK accepts a vendor-signed unlock image matched to the device serial
+  (see `VAL-PROTOCOL-NOTES.md`). An image issued for another tablet will not work.
+- You must give Lenovo an account, email address, serial number and bootloader serial; the form also asks for an IMEI.
+- The page says unlocking erases data, voids the Lenovo warranty, stops official updates and cannot be reversed.
+  It allows three applications per account per year and says Gmail may not receive the file.
+
 ## What this is
 
 `lk.oem-unlock-gate.17.5.10.020.img` is a full LK partition image built from the
